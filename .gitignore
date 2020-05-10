@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/AppDemo1Repo/.vs
+/AppDemo1Repo/AppDemo1Repo/bin/Debug/netcoreapp2.1
+/AppDemo1Repo/AppDemo1Repo/obj
